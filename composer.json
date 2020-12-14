@@ -40,8 +40,8 @@
             "url": "https://mirrors.aliyun.com/composer/"
         },
         "lego": {
-            "type": "path",
-            "url": "./lego"
+            "type": "vcs",
+            "url": "https://github.com/wutongwan/laravel-lego.git"
         }
     },
     "scripts": {
